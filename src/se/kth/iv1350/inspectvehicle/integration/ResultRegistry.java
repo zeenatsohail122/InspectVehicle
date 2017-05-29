@@ -6,7 +6,7 @@ import  se.kth.iv1350.inspectvehicle.model.ListOfInspection;
 
 /**
  *
- * @author ZeenatAli
+ * @author ZeenatAli.
  */
 public class ResultRegistry {
     private ListOfInspection listOfInspection = null;

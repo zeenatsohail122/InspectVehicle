@@ -4,7 +4,7 @@ import  se.kth.iv1350.inspectvehicle.integration.paymentAuthroization.CreditCard
 
 /**
  *
- * Receipt is used for the receipt of payment
+ * Receipt is used for the receipt of payment.
  */
 public class Receipt {
     private int price = 0;

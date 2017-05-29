@@ -4,7 +4,7 @@ import  se.kth.iv1350.inspectvehicle.model.Receipt;
 
 /**
  *
- * @author ZeenatAli
+ * @author ZeenatAli.
  */
 public class Printer{
 

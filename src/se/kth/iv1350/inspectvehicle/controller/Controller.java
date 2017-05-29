@@ -14,7 +14,7 @@ import  se.kth.iv1350.inspectvehicle.integration.RegistryCreator;
 
 /**
  *
- * This is the application's single controller. All calls to the model pass through here
+ * This is the application's single controller. All calls to the model pass through here.
  */
 public class Controller {
     private Garage garage = null;

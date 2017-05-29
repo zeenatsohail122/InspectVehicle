@@ -5,7 +5,7 @@ import  se.kth.iv1350.inspectvehicle.integration.ResultRegistry;
 
 
 /**
- * Inspection is used to calculate the cost of inspection, print receipt and inspection result
+ * Inspection is used to calculate the cost of inspection, print receipt and inspection result.
  * 
  */
 public class Inspection {

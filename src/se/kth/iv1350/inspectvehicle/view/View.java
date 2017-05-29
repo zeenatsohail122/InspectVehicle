@@ -7,7 +7,7 @@ package se.kth.iv1350.inspectvehicle.view;
 
 /**
  *
- * @author ZeenatAli
+ * @author ZeenatAli.
  */
 public class View {
     

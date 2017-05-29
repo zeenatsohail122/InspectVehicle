@@ -13,7 +13,7 @@ import  se.kth.iv1350.inspectvehicle.integration.paymentAuthroization.PaymentAut
 
 /**
  *
- * Performs complete startup of the application..
+ * Performs complete startup of the application...
  */
 public class Main {
     public static void main(String[] args){

@@ -8,7 +8,7 @@ import  se.kth.iv1350.inspectvehicle.model.ListOfInspection;
 
 /**
  *
- * @author ZeenatAli
+ * @author ZeenatAli.
  */
 public class InspectionRegistry {
     

@@ -6,7 +6,7 @@ import java.util.List;
 
 /**
  *
- * @author ZeenatAli
+ * @author ZeenatAli.
  */
 public class ResultList {
     private List<Boolean> result = null;

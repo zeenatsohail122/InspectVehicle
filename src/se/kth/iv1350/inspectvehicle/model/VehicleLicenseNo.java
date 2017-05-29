@@ -10,7 +10,7 @@ public class VehicleLicenseNo {
     
     /**
      * Create New instance representing the car's license no.
-     * @param vehicleLicenseNo represent license number of the car
+     * @param vehicleLicenseNo represent license number of the car.
      */
     public VehicleLicenseNo(int vehicleLicenseNo){
         this.vehicleLicenseNo = vehicleLicenseNo;
