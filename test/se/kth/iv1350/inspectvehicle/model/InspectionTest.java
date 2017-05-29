@@ -13,7 +13,7 @@ import se.kth.iv1350.inspectvehicle.integration.ResultRegistry;
 
 /**
  *
- * @author ZeenatAli
+ * @author ZeenatAli.
  */
 public class InspectionTest {
     

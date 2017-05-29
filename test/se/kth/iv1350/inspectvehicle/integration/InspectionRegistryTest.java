@@ -11,7 +11,7 @@ import se.kth.iv1350.inspectvehicle.model.VehicleLicenseNo;
 
 /**
  *
- * @author ZeenatAli
+ * @author ZeenatAli.
  */
 public class InspectionRegistryTest {
     
