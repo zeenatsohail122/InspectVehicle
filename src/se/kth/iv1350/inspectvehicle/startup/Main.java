@@ -4,7 +4,7 @@ import  java.util.Random;
 import  se.kth.iv1350.inspectvehicle.controller.Controller;
 import  se.kth.iv1350.inspectvehicle.model.Inspection;
 import  se.kth.iv1350.inspectvehicle.model.VehicleLicenseNo;
-import  se.kth.iv1350.inspectvehicle.model.ListOfInspection;
+import  se.kth.iv1350.inspectvehicle.integration.ListOfInspection;
 import  se.kth.iv1350.inspectvehicle.integration.RegistryCreator;
 import  se.kth.iv1350.inspectvehicle.integration.Printer;
 import  se.kth.iv1350.inspectvehicle.integration.garage.Garage;

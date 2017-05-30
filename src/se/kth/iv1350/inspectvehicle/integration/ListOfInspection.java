@@ -1,5 +1,5 @@
 
-package se.kth.iv1350.inspectvehicle.model;
+package se.kth.iv1350.inspectvehicle.integration;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -36,3 +36,4 @@ public class ListOfInspection {
     }
     
 }
+

@@ -1,8 +1,8 @@
 
 package se.kth.iv1350.inspectvehicle.integration;
 
-import  se.kth.iv1350.inspectvehicle.model.ResultList;
-import  se.kth.iv1350.inspectvehicle.model.ListOfInspection;
+import  se.kth.iv1350.inspectvehicle.integration.ResultList;
+import  se.kth.iv1350.inspectvehicle.integration.ListOfInspection;
 
 /**
  * Responsible for all the calls to the result database, including getting results from 

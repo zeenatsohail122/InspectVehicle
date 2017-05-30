@@ -7,7 +7,7 @@ public class Printer{
     
  /**
   * Print Receipt for the payment
-  * @param receipt      Recepit of the current payment
+  * @param receipt      Receipt of the current payment
   */
     public void printReceipt(Receipt receipt){
     System.out.println("--- RECEIPT ---");
