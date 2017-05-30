@@ -10,8 +10,6 @@ import  se.kth.iv1350.inspectvehicle.integration.Printer;
 import  se.kth.iv1350.inspectvehicle.integration.paymentAuthroization.CreditCard;
 import  se.kth.iv1350.inspectvehicle.integration.RegistryCreator;
 
-
-
 /**
  *
  * This is the application's single controller. All calls to the model pass through here.
@@ -26,10 +24,10 @@ public class Controller {
     /**
      * Creates a new instance 
      * @param garage                   used to control the door and display queue number
-     * @param creator                  used to initiating all registries
+     * @param creator                  used to initiate all registries
      * @param printer                  interface used for printing
      * @param paymentAuthorization     used to handle communication with payment authorizing system
-     * @param inspection         used to calculate result and print receipt, result
+     * @param inspection               used to calculate result and print receipt and result
      * 
      */
     public Controller(Garage garage, RegistryCreator creator, Printer printer, PaymentAuthorization paymentAuthorization,
@@ -64,7 +62,7 @@ public class Controller {
      * Specify the cost of found Inspections
      * 
      * @param listOfInspections  determines the list of found inspections
-     * @return                  cost for the found inspections
+     * @return                   cost for the found inspections
      */
     public int getInspectionPrice(ListOfInspection listOfInspections){
         return this.inspection.getInspectionPrice(listOfInspections);

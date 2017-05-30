@@ -5,16 +5,24 @@ import  java.util.List;
 import  se.kth.iv1350.inspectvehicle.model.VehicleLicenseNo;
 import  se.kth.iv1350.inspectvehicle.model.ListOfInspection;
 
-
 /**
  *
- * @author ZeenatAli.
+ * Includes all calls to the database, where inspections are stored
  */
 public class InspectionRegistry {
     
+    /**
+     * Creates a new instance
+     */
     InspectionRegistry(){
         
     }
+    
+    /**
+     * findInspection finds the specified inspection from database according to the vehicleLicenseNo
+     * @param vehicleLicenseNo      License for the car
+     * @return                      specified inspection
+     */
     
     public ListOfInspection findInspection(VehicleLicenseNo vehicleLicenseNo){
         ListOfInspection listOfInspection = new ListOfInspection();

@@ -2,12 +2,13 @@
 package se.kth.iv1350.inspectvehicle.integration;
 import  se.kth.iv1350.inspectvehicle.model.Receipt;
 
-/**
- *
- * @author ZeenatAli.
- */
-public class Printer{
 
+public class Printer{
+    
+ /**
+  * Print Receipt for the payment
+  * @param receipt      Recepit of the current payment
+  */
     public void printReceipt(Receipt receipt){
     System.out.println("--- RECEIPT ---");
     System.out.println("Cost of inspection: " + receipt.getInspectionPrice());
@@ -16,6 +17,10 @@ public class Printer{
     System.out.println("--- ----- ---");
     }
     
+    /**
+     * Print Result of the specified inspection
+     * @param resultRegistry    includes info about the result of specified inspection
+     */
     public void printResult(ResultRegistry resultRegistry){
         System.out.println("--- Result ---");
         System.out.println("Inspection items | Result");

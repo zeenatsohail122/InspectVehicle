@@ -11,28 +11,26 @@ public class Receipt {
     private CreditCard creditCard;
     
     /**
-     * 
-     * @param creditCard
-     * @param price 
+     * Creates a new instance
+     * @param creditCard    represents a credit card
+     * @param price         price of inspection
      */
-    
     public Receipt(CreditCard creditCard, int price){
         this.creditCard = creditCard;
         this.price = price;
     }
     
     /**
-     * 
-     * @return 
+     * Get the the cost of inspection
+     * @return the cost of inspection
      */
-    
     public int getInspectionPrice(){
         return price;
     }
     
     /**
-     * 
-     * @return 
+     * Get credit card info
+     * @return credit card info
      */
     public CreditCard getCreditCard(){
         return creditCard;
