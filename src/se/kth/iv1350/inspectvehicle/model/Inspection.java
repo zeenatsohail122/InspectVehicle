@@ -2,7 +2,7 @@
 package se.kth.iv1350.inspectvehicle.model;
 import  se.kth.iv1350.inspectvehicle.integration.Printer;
 import  se.kth.iv1350.inspectvehicle.integration.ResultRegistry;
-import  se.kth.iv1350.inspectvehicle.integration.ListOfInspection;
+import  se.kth.iv1350.inspectvehicle.model.ListOfInspection;
 
 
 

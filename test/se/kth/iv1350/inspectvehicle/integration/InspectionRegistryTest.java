@@ -1,4 +1,4 @@
-//zeenat
+
 package se.kth.iv1350.inspectvehicle.integration;
 
 import java.util.ArrayList;

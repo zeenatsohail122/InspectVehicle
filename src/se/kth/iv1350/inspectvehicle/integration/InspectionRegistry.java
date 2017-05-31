@@ -3,7 +3,7 @@ package se.kth.iv1350.inspectvehicle.integration;
 import  java.util.ArrayList;
 import  java.util.List;
 import  se.kth.iv1350.inspectvehicle.model.VehicleLicenseNo;
-import  se.kth.iv1350.inspectvehicle.integration.ListOfInspection;
+import  se.kth.iv1350.inspectvehicle.model.ListOfInspection;
 
 /**
  *

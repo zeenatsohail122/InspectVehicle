@@ -1,4 +1,5 @@
-package se.kth.iv1350.inspectvehicle.integration;
+
+package se.kth.iv1350.inspectvehicle.model;
 
 import java.util.ArrayList;
 import java.util.List;

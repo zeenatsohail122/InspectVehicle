@@ -2,7 +2,7 @@
 package se.kth.iv1350.inspectvehicle.controller;
 import  se.kth.iv1350.inspectvehicle.model.Inspection;
 import  se.kth.iv1350.inspectvehicle.model.VehicleLicenseNo;
-import  se.kth.iv1350.inspectvehicle.integration.ListOfInspection;
+import  se.kth.iv1350.inspectvehicle.model.ListOfInspection;
 import  se.kth.iv1350.inspectvehicle.model.Receipt;
 import  se.kth.iv1350.inspectvehicle.integration.garage.Garage;
 import  se.kth.iv1350.inspectvehicle.integration.paymentAuthroization.PaymentAuthorization;

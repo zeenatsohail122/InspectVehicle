@@ -1,5 +1,6 @@
 
 package se.kth.iv1350.inspectvehicle.integration;
+import  se.kth.iv1350.inspectvehicle.model.ListOfInspection;
 import  se.kth.iv1350.inspectvehicle.model.Receipt;
 
 
