@@ -29,16 +29,16 @@ public class InspectionRegistry {
         
         //inspection generation
         List<String> inspectionDatabase = new ArrayList<>();
-        inspectionDatabase.add("Clutch ");
-        inspectionDatabase.add("Air conditioner ");
         inspectionDatabase.add("Tire ");
+        inspectionDatabase.add("Engine ");
         inspectionDatabase.add("Brake ");
-        inspectionDatabase.add("Battery ");
-        inspectionDatabase.add("Steering ");
-        inspectionDatabase.add("Locks");
-        inspectionDatabase.add("Engine");
-        inspectionDatabase.add("Locks");
+        inspectionDatabase.add("Steer");
+        inspectionDatabase.add("Clutch ");
+        inspectionDatabase.add("Light ");
+        inspectionDatabase.add("Battery");
         inspectionDatabase.add("Exhaust");
+        inspectionDatabase.add("Locker ");
+        inspectionDatabase.add("Air C ");
         
        
         int startPoint = vehicleLicenseNo.getVehicleLicense()%100/10;

@@ -19,7 +19,11 @@ public class Receipt {
         this.creditCard = creditCard;
         this.price = price;
     }
-    
+
+    Receipt() {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
+
     /**
      * Get the the cost of inspection
      * @return the cost of inspection
